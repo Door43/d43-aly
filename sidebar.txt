@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aly:home|Door43 (aly)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aly|d43-aly repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aly/archive/master.zip|d43-aly.zip]]
+
+**Recent Changes**
+{{changes>ns = aly}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aly|Ethnologue data]]
+
